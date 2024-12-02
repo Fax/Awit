@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fax-c-cpp", "fax-c-cpp.vcxproj", "{44BF7685-DD2F-40AF-8494-2755375DED94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Emscripten = Debug|Emscripten
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Emscripten = Release|Emscripten
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44BF7685-DD2F-40AF-8494-2755375DED94}.Debug|Emscripten.ActiveCfg = Debug|Emscripten
+		{44BF7685-DD2F-40AF-8494-2755375DED94}.Debug|Emscripten.Build.0 = Debug|Emscripten
+		{44BF7685-DD2F-40AF-8494-2755375DED94}.Debug|x64.ActiveCfg = Debug|x64
+		{44BF7685-DD2F-40AF-8494-2755375DED94}.Debug|x64.Build.0 = Debug|x64
+		{44BF7685-DD2F-40AF-8494-2755375DED94}.Debug|x86.ActiveCfg = Debug|Win32
+		{44BF7685-DD2F-40AF-8494-2755375DED94}.Debug|x86.Build.0 = Debug|Win32
+		{44BF7685-DD2F-40AF-8494-2755375DED94}.Release|Emscripten.ActiveCfg = Release|Emscripten
+		{44BF7685-DD2F-40AF-8494-2755375DED94}.Release|Emscripten.Build.0 = Release|Emscripten
+		{44BF7685-DD2F-40AF-8494-2755375DED94}.Release|x64.ActiveCfg = Release|x64
+		{44BF7685-DD2F-40AF-8494-2755375DED94}.Release|x64.Build.0 = Release|x64
+		{44BF7685-DD2F-40AF-8494-2755375DED94}.Release|x86.ActiveCfg = Release|Win32
+		{44BF7685-DD2F-40AF-8494-2755375DED94}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9F1D442-B436-46A7-A086-5CBC0577A829}
+	EndGlobalSection
+EndGlobal

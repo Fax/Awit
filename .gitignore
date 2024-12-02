@@ -1,0 +1,50 @@
+# Build artifacts
+[eE]mscripten/
+x64
+
+# Executables
+*.exe
+*.out
+*.app
+
+# IDE specific files
+.vscode/
+.vs/
+.idea/
+*.code-workspace
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+*.swo
+
+# Debugging files
+*.stackdump
+*.core
+
+# Generated files
+*.gch
+*.pch
+CMakeFiles/
+CMakeCache.txt
+Makefile
+build/
+cmake-build-debug/
+cmake-build-release/
+
+# Dependency files
+*.d
+.deps/
+external/
+
+# Coverage and testing
+*.gcno
+*.gcda
+*.gcov
+coverage/
+
+# Other ignored files
+.DS_Store
+Thumbs.db
